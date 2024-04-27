@@ -1,0 +1,132 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.salom{
+    display: flex;
+    align-items: center;
+    
+   
+}
+header button{
+    width: 105px;
+    height: 40px;
+border-radius: 20px;
+border: none;
+background-color: aqua;
+color: aliceblue;
+}
+header a{
+    
+    margin: 20px;;
+    color: rgb(14, 19, 24);
+    text-decoration: none;
+}
+.div1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.div1 h1{
+    font-size: 80px;
+   
+    width: 700px;
+    margin-bottom: 0.1px;
+}
+.div1  p{
+    font-size: 22px;
+    width: 500px;
+   
+}
+.div1  button{
+    width: 197px;
+    height: 56px;
+border-radius: 20px;
+text-decoration:none ;
+background-color: aqua;
+color: aliceblue;
+border: none;
+}
+ .position{
+    background-image: url(./Path\ 2.png);
+    width: 1110px;
+    height: 168px;
+    left: 200px;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   top:  800px
+   ;
+    background-color: aliceblue;
+ }  
+ .position input{
+    width: 769px;
+    height: 64px;
+    border-radius: 10px;
+    border: none;
+ }
+
+ .position button{
+    width: 188px;
+    height: 64px;
+    border-radius: 10px;
+    border: none;
+    background-color: aqua;
+    color: aliceblue;
+ }
+ .xola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 102, 0);
+    width: 100%;
+    height: 500px;
+    margin-top: 230px;
+   
+  
+ }
+ .xola h1{
+font-size: 50px;
+color: aliceblue;
+margin-right: 300px;
+ }
+ .xola button{
+    width: 197px;
+    height: 64px;
+    border-radius: 30px;
+    border: none;
+    background-color: aqua;
+    color: aliceblue;
+     }
+     .x{
+      margin-left: 300px;
+        margin-bottom: 200px;
+     }
+     .x button{
+margin-left: 100px;
+     }
+     .w{
+        background-color: black;
+        width: 100%;
+        height: 200px;
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+     }
+     .r a{
+       
+    
+        margin: 20px;
+        color: aliceblue;
+        text-decoration: none;
+     }
+     .r{
+        display: flex;
+        align-items: center;
+     }
